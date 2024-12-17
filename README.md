@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! 👋
+
+## Im a student at HTW Berlin and currently learning how to code and utilize source control in Java.
 
 <!--
 **rubensbertone/rubensbertone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
